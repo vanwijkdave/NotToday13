@@ -1,0 +1,10 @@
+Package: com.daveapps.nottoday13
+Name: NotToday13
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Disables Today View on iOS 13
+Maintainer: Dave van Wijk
+Author: Dave van Wijk
+Section: Tweaks
+Version: 1
+Installed-Size: 152
